@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aditya
 ![](https://image.freepik.com/free-vector/development-operations-banner-devops-concept_107791-2220.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I make projects just for fun.
 
 Skills: C++ / Python / JAVA / REACT / JS / HTML / CSS / XML
 
